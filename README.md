@@ -3,12 +3,12 @@
 
 Questions:
 
-![](images/1.JPG)
+![](1.JPG)
 
-![](images/2.JPG)
+![](2.JPG)
 
-![](images/3-6.JPG)
+![](3-6.JPG)
 
-![](images/7.JPG)
+![](7.JPG)
 
-![](images/8.JPG)
+![](8.JPG)
